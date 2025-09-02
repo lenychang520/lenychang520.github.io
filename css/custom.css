@@ -1,0 +1,13 @@
+.anzhiyu-icon-csdn {
+  display: inline-block;
+  width: 24px;
+  height: 24px;
+  background: url('https://s3.bmp.ovh/imgs/2025/09/02/9f1c8caa454b2175.png') center/contain no-repeat;
+}
+
+.anzhiyu-icon-gitee {
+  display: inline-block;
+  width: 24px;
+  height: 24px;
+  background: url('https://s3.bmp.ovh/imgs/2025/09/02/111b1978e5c1796c.png') center/contain no-repeat;
+}
